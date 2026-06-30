@@ -1,6 +1,6 @@
 # CI/CD Blueprint: RAG Eval + Guardrail Stack
 
-**Sinh viên:** Do Huyen
+**Sinh viên:** Đỗ Thị Huyền - 2A202600880
 **Ngày:** 2026-06-30
 
 ---
